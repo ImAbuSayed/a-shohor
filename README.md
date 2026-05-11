@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/a-shohor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for A Shohor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/a-shohor/) |
+| **Get License** | [Request Licensing for A Shohor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/a-shohor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> এই শহরের নীল বাতাসে, স্মৃতির ধুলো ওড়ে
+> তোমায় না পাওয়ার ব্যথায়, আমার হৃদয় পোড়ে
+> অচিন পথে পা বাড়িয়ে, খুঁজি তোমার মুখ
+> আমার এই শূন্য বুকেতে, তুমিই প্রেমের সুখ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
