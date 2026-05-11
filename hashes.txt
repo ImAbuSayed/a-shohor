@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - A Shohor
+
+This log tracks the cryptographic history and versioning for the song **A Shohor** (a-shohor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T05:15:16.060185 | `v1` | `a5505ad2de4d4c53714cc3c7dd5b48dbb656f91001848d10c2ac765dccb7e036` | `45662f2283487cbb865a8b7b1be1493800e3f1eef1b1b1d88e9e3fb47bd7d86b` | `2026-05-12_a-shohor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
